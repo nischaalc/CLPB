@@ -1,4 +1,4 @@
-fillIt
+Command Line Paint Bucket
 ======
 
 Building off the *Grid* class built for **Grid It!** this is another command line game that was made as part of an assignment.
